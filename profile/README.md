@@ -1,4 +1,4 @@
-![cloudnativetr](https://raw.githubusercontent.com/cloudnativetr/.github/main/cloud_native_tr.png)
+![cloudnativetr](https://raw.githubusercontent.com/cloudnativetr/.github/main/cloud_native_ist.png)
 
 <div align="left">
 
